@@ -1,0 +1,36 @@
+MAGIC JUICE FREQUENTLY ASKED QUESTIONS
+
+Q: What is Magic Juice?
+A: Magic Juice is a Kenyan juice company that produces and sells fresh fruit juices.
+
+Q: Where is Magic Juice located?
+A: Magic Juice is located in Donholm, Nairobi, Kenya.
+
+Q: What products does Magic Juice offer?
+A: Magic Juice offers a range of juices including Apple, Apple Ginger, Hibiscus, Lemon, Lime, Mango, Orange, Passion, Peruvian, Pineapple, Pineapple Mint, and Sugarcane.
+
+Q: Does Magic Juice offer delivery?
+A: Magic Juice provides delivery services within Nairobi.
+
+Q: How can I contact Magic Juice?
+A: Customers can contact Magic Juice by phone at 0722 788 667 or by email at sales@magicjuice.co.ke.
+
+Q: Where can I find more information about Magic Juice?
+A: Customers can visit the official Magic Juice website at https://magicjuice.co.ke/.
+
+Q: Can the chatbot provide current prices?
+A: The chatbot should only provide a price when the price is available in the current Magic Juice knowledge base. It should not guess or invent prices.
+
+Q: What should the chatbot do if it does not know an answer?
+A: The chatbot should clearly say that the information is not available in its knowledge base and direct the customer to contact Magic Juice for confirmation.
+
+CUSTOMER COMPLAINTS AND PROBLEMS
+
+Q: What should a customer do if they have a complaint or problem?
+A: Customers with complaints, problems, or concerns should contact Magic Juice directly so that the company can assist them.
+
+Q: Can the chatbot resolve a customer complaint?
+A: The chatbot can provide general information, but it should not pretend to resolve an official complaint. Customers should contact Magic Juice directly for assistance with complaints or problems.
+
+Q: What should the chatbot do when a customer reports a serious problem?
+A: The chatbot should acknowledge the customer's concern and direct them to contact Magic Juice for appropriate assistance.
